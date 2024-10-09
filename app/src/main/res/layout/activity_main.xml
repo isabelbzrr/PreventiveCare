@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="#6796DA"
+    android:backgroundTintMode="add"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        style="fredoka"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/_19_generated_1"
+        tools:layout_editor_absoluteX="26dp"
+        tools:layout_editor_absoluteY="93dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka_medium"
+        android:text="Bem Vindo ao"
+        android:textSize="20sp"
+        android:typeface="normal"
+        tools:layout_editor_absoluteX="56dp"
+        tools:layout_editor_absoluteY="419dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="123dp"
+        android:layout_height="50dp"
+        android:backgroundTint="#6796DA"
+        android:fontFamily="@font/fredoka"
+        android:text="Login"
+        tools:layout_editor_absoluteX="76dp"
+        tools:layout_editor_absoluteY="555dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="123dp"
+        android:layout_height="50dp"
+        android:backgroundTint="#FFFFFF"
+        android:breakStrategy="balanced"
+        android:fontFamily="@font/fredoka"
+        android:insetBottom="2sp"
+        android:shadowColor="#020202"
+        android:text="Sign Up"
+        android:textColor="#061A36"
+        app:strokeColor="#000000"
+        app:strokeWidth="1sp"
+        tools:layout_editor_absoluteX="206dp"
+        tools:layout_editor_absoluteY="555dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="123dp"
+        android:layout_height="50dp"
+        android:backgroundTint="#FFFFFF"
+        android:breakStrategy="balanced"
+        android:fontFamily="@font/fredoka"
+        android:insetBottom="2sp"
+        android:shadowColor="#020202"
+        android:text="Sign Up"
+        android:textColor="#061A36"
+        app:strokeColor="#000000"
+        app:strokeWidth="1sp"
+        tools:layout_editor_absoluteX="206dp"
+        tools:layout_editor_absoluteY="555dp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/social_1"
+        tools:layout_editor_absoluteX="173dp"
+        tools:layout_editor_absoluteY="656dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/facebook_1"
+        tools:layout_editor_absoluteX="125dp"
+        tools:layout_editor_absoluteY="656dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka_medium"
+        android:text="entre usando"
+        tools:layout_editor_absoluteX="154dp"
+        tools:layout_editor_absoluteY="627dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/twitter_1"
+        tools:layout_editor_absoluteX="221dp"
+        tools:layout_editor_absoluteY="656dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka_medium"
+        android:text="PreventiveCare!"
+        android:textColor="#6796DA"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="56dp"
+        tools:layout_editor_absoluteY="444dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="276dp"
+        android:layout_height="62dp"
+        android:fontFamily="@font/fredoka_medium"
+        android:text="Garanta o melhor para sua saúde! Saiba como  lidar com o que você possui.  Conheça nossos recursos."
+        tools:layout_editor_absoluteX="56dp"
+        tools:layout_editor_absoluteY="479dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

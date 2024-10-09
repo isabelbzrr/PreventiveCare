@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity4">
+
+    <TextView
+        android:id="@+id/textView56"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/urbanist"
+        android:text="TextView"
+        android:textColor="#6796DA"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="708dp"
+        tools:text="Home" />
+
+    <TextView
+        android:id="@+id/textView57"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/urbanist"
+        android:text="TextView"
+        android:textColor="#B6B6B6"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="335dp"
+        tools:layout_editor_absoluteY="708dp"
+        tools:text="History" />
+
+    <Button
+        android:id="@+id/button27"
+        android:layout_width="59dp"
+        android:layout_height="38dp"
+        android:background="#00BECFEE"
+        android:backgroundTint="#FDF9FC"
+        app:icon="@drawable/lupa__1__1"
+        app:iconSize="20dp"
+        app:iconTint="#B6B6B6"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="671dp" />
+
+    <Button
+        android:id="@+id/button28"
+        android:layout_width="59dp"
+        android:layout_height="38dp"
+        android:background="#00BECFEE"
+        android:backgroundTint="#FDF9FC"
+        app:icon="@drawable/home"
+        app:iconSize="20dp"
+        app:iconTint="#6796DA"
+        tools:layout_editor_absoluteX="13dp"
+        tools:layout_editor_absoluteY="671dp" />
+
+    <ImageView
+        android:id="@+id/imageView37"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/scan"
+        tools:layout_editor_absoluteX="154dp"
+        tools:layout_editor_absoluteY="659dp" />
+
+    <Button
+        android:id="@+id/button29"
+        android:layout_width="59dp"
+        android:layout_height="38dp"
+        android:background="#00BECFEE"
+        android:backgroundTint="#FDF9FC"
+        app:icon="@drawable/profile__1_"
+        app:iconSize="20dp"
+        app:iconTint="#B6B6B6"
+        tools:layout_editor_absoluteX="250dp"
+        tools:layout_editor_absoluteY="677dp" />
+
+    <TextView
+        android:id="@+id/textView58"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/urbanist"
+        android:text="TextView"
+        android:textColor="#B6B6B6"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="84dp"
+        tools:layout_editor_absoluteY="708dp"
+        tools:text="Search" />
+
+    <TextView
+        android:id="@+id/textView59"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/urbanist"
+        android:text="TextView"
+        android:textColor="#B6B6B6"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="265dp"
+        tools:layout_editor_absoluteY="708dp"
+        tools:text="Profile" />
+
+    <Button
+        android:id="@+id/button30"
+        android:layout_width="59dp"
+        android:layout_height="38dp"
+        android:background="#00BECFEE"
+        android:backgroundTint="#FDF9FC"
+        app:icon="@drawable/clock"
+        app:iconSize="20dp"
+        app:iconTint="#B6B6B6"
+        tools:layout_editor_absoluteX="322dp"
+        tools:layout_editor_absoluteY="676dp" />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="443dp"
+        android:layout_height="35dp"
+        android:text="___________________________________________________________________"
+        tools:layout_editor_absoluteX="-16dp"
+        tools:layout_editor_absoluteY="256dp" />
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="443dp"
+        android:layout_height="35dp"
+        android:text="___________________________________________________________________"
+        tools:layout_editor_absoluteX="-16dp"
+        tools:layout_editor_absoluteY="323dp" />
+
+    <TextView
+        android:id="@+id/textView34"
+        android:layout_width="443dp"
+        android:layout_height="35dp"
+        android:text="___________________________________________________________________"
+        tools:layout_editor_absoluteX="-16dp"
+        tools:layout_editor_absoluteY="394dp" />
+
+    <TextView
+        android:id="@+id/textView38"
+        android:layout_width="443dp"
+        android:layout_height="35dp"
+        android:text="___________________________________________________________________"
+        tools:layout_editor_absoluteX="-16dp"
+        tools:layout_editor_absoluteY="451dp" />
+
+    <ImageView
+        android:id="@+id/imageView29"
+        android:layout_width="500dp"
+        android:layout_height="200dp"
+        app:srcCompat="@drawable/rectangle_3"
+        tools:layout_editor_absoluteX="-34dp"
+        tools:layout_editor_absoluteY="-3dp" />
+
+    <ImageView
+        android:id="@+id/imageView31"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/c"
+        tools:layout_editor_absoluteX="26dp"
+        tools:layout_editor_absoluteY="68dp" />
+
+    <ImageView
+        android:id="@+id/imageView32"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/f"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka_medium"
+        android:includeFontPadding="false"
+        android:text="CHAT´S RECENTES"
+        android:textColor="#38598B"
+        android:textSize="20sp"
+        android:typeface="normal"
+        tools:layout_editor_absoluteX="117dp"
+        tools:layout_editor_absoluteY="220dp" />
+
+    <ImageView
+        android:id="@+id/imageView33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ellipse_19"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="283dp" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka"
+        android:text="Dra. Priscila Nunes"
+        android:textColor="#38598B"
+        tools:layout_editor_absoluteX="66dp"
+        tools:layout_editor_absoluteY="288dp" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka"
+        android:text="Dra. Lila Campos"
+        android:textColor="#38598B"
+        tools:layout_editor_absoluteX="66dp"
+        tools:layout_editor_absoluteY="358dp" />
+
+    <TextView
+        android:id="@+id/textView35"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka"
+        android:text="Dra. Nara Baia"
+        android:textColor="#38598B"
+        tools:layout_editor_absoluteX="66dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka"
+        android:text="Digitando..."
+        android:textColor="#38598B"
+        tools:layout_editor_absoluteX="66dp"
+        tools:layout_editor_absoluteY="304dp" />
+
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka"
+        android:text="Enviado há 4h"
+        android:textColor="#38598B"
+        tools:layout_editor_absoluteX="66dp"
+        tools:layout_editor_absoluteY="376dp" />
+
+    <TextView
+        android:id="@+id/textView36"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka"
+        android:text="Quais suas dúvidas?"
+        android:textColor="#38598B"
+        tools:layout_editor_absoluteX="66dp"
+        tools:layout_editor_absoluteY="440dp" />
+
+    <ImageView
+        android:id="@+id/imageView34"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ellipse_21"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="358dp" />
+
+    <ImageView
+        android:id="@+id/imageView35"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ellipse_23"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <TextView
+        android:id="@+id/textView39"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka"
+        android:text="Suas mensagens pessoais são protegidas com "
+        android:textColor="#38598B"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteX="66dp"
+        tools:layout_editor_absoluteY="486dp" />
+
+    <TextView
+        android:id="@+id/textView40"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka_medium"
+        android:text="  ponta a ponta"
+        android:textColor="#38598B"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteX="171dp"
+        tools:layout_editor_absoluteY="499dp" />
+
+    <TextView
+        android:id="@+id/textView41"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka_medium"
+        android:text="criptografia de"
+        android:textColor="#38598B"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteX="274dp"
+        tools:layout_editor_absoluteY="486dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

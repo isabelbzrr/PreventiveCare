@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".sOBRE">
+
+    <ImageView
+        android:id="@+id/imageView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/scan"
+        tools:layout_editor_absoluteX="154dp"
+        tools:layout_editor_absoluteY="659dp" />
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/urbanist"
+        android:text="TextView"
+        android:textColor="#6796DA"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="708dp"
+        tools:text="Home" />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/urbanist"
+        android:text="TextView"
+        android:textColor="#B6B6B6"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="84dp"
+        tools:layout_editor_absoluteY="708dp"
+        tools:text="Search" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/_1_300x300__1__1"
+        tools:layout_editor_absoluteX="229dp"
+        tools:layout_editor_absoluteY="513dp" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="59dp"
+        android:layout_height="38dp"
+        android:background="#00BECFEE"
+        android:backgroundTint="#FDF9FC"
+        app:icon="@drawable/profile__1_"
+        app:iconSize="20dp"
+        app:iconTint="#B6B6B6"
+        tools:layout_editor_absoluteX="250dp"
+        tools:layout_editor_absoluteY="677dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="59dp"
+        android:layout_height="38dp"
+        android:background="#00BECFEE"
+        android:backgroundTint="#FDF9FC"
+        app:icon="@drawable/home"
+        app:iconSize="20dp"
+        app:iconTint="#6796DA"
+        tools:layout_editor_absoluteX="13dp"
+        tools:layout_editor_absoluteY="671dp" />
+
+    <Button
+        android:id="@+id/button14"
+        android:layout_width="59dp"
+        android:layout_height="38dp"
+        android:background="#00BECFEE"
+        android:backgroundTint="#FDF9FC"
+        app:icon="@drawable/lupa__1__1"
+        app:iconSize="20dp"
+        app:iconTint="#B6B6B6"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="671dp" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/urbanist"
+        android:text="TextView"
+        android:textColor="#B6B6B6"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="265dp"
+        tools:layout_editor_absoluteY="708dp"
+        tools:text="Profile" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/urbanist"
+        android:text="TextView"
+        android:textColor="#B6B6B6"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="335dp"
+        tools:layout_editor_absoluteY="708dp"
+        tools:text="History" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="59dp"
+        android:layout_height="38dp"
+        android:background="#00BECFEE"
+        android:backgroundTint="#FDF9FC"
+        app:icon="@drawable/clock"
+        app:iconSize="20dp"
+        app:iconTint="#B6B6B6"
+        tools:layout_editor_absoluteX="322dp"
+        tools:layout_editor_absoluteY="676dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka"
+        android:text="O que é          ?"
+        android:textColor="#061A36"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="27dp" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/abril_fatface"
+        android:text="HPV"
+        android:textColor="#3B70BD"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="277dp"
+        tools:layout_editor_absoluteY="383dp" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/abril_fatface"
+        android:text="HPV"
+        android:textColor="#3B70BD"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="565dp" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka"
+        android:text="Tipo de"
+        android:textColor="#061A36"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="200dp"
+        tools:layout_editor_absoluteY="383dp" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka"
+        android:text="Tratamento para"
+        android:textColor="#061A36"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="540dp" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/abril_fatface"
+        android:text="HPV"
+        android:textColor="#3B70BD"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="99dp"
+        tools:layout_editor_absoluteY="27dp" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/d_nq_np_632428_mlb47168316582_082021_o_1"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="64dp" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/rectangle_33__1_"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="64dp" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="359dp"
+        android:layout_height="100dp"
+        android:fontFamily="@font/fredoka"
+        android:text="É um vírus cuja abreviatura significa papilomavírus  humano. Existem diversos subtipos deste vírus, que podem causar desde verrugas em pele e mucosas até lesões precursoras de câncer. Os HPV são classificados em tipos de baixo e alto risco para câncer.Entre os de baixo risco, o 6 e o 11 são os mais frequentes e causam sobretudo verrugas no trato genital."
+        android:textColor="#0A326D"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="270dp" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/_0_1"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="380dp" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="211dp"
+        android:layout_height="102dp"
+        android:fontFamily="@font/fredoka"
+        android:text="Os tipos de HPV encontrados n as membranas mucosas são às vezes chamados de HPV genital . Eles geralmente não vivem na pele. "
+        android:textColor="#0A326D"
+        tools:layout_editor_absoluteX="200dp"
+        tools:layout_editor_absoluteY="411dp" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="169dp"
+        android:layout_height="66dp"
+        android:fontFamily="@font/fredoka"
+        android:text="As vacinas estão disponíveis para ajudar a prevenir a infecção por certos tipos de HPV e alguns dos cancros ligados a esses tipos. "
+        android:textColor="#0A326D"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="593dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+    et.ConstraintLayout>

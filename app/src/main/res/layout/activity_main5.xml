@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity5">
+
+    <ImageView
+        android:id="@+id/imageView36"
+        android:layout_width="417dp"
+        android:layout_height="506dp"
+        app:srcCompat="@drawable/rectangle_10"
+        tools:layout_editor_absoluteX="-3dp"
+        tools:layout_editor_absoluteY="-52dp" />
+
+    <ImageView
+        android:id="@+id/imageView38"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/adesivo_circular_para_ateli__floral_minimalista__2__1"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="38dp" />
+
+    <ImageView
+        android:id="@+id/imageView39"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/rectangle_9"
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="193dp" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="123dp"
+        android:layout_height="50dp"
+        android:backgroundTint="#6796DA"
+        android:fontFamily="@font/fredoka"
+        android:text="Entrar"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="462dp" />
+
+    <TextView
+        android:id="@+id/textView44"
+        android:layout_width="277dp"
+        android:layout_height="24dp"
+        android:text="___________________________________________________________________"
+        android:textColor="#CCCCCCCC"
+        tools:layout_editor_absoluteX="68dp"
+        tools:layout_editor_absoluteY="283dp" />
+
+    <TextView
+        android:id="@+id/textView46"
+        android:layout_width="277dp"
+        android:layout_height="24dp"
+        android:text="___________________________________________________________________"
+        android:textColor="#CCCCCCCC"
+        tools:layout_editor_absoluteX="67dp"
+        tools:layout_editor_absoluteY="344dp" />
+
+    <TextView
+        android:id="@+id/textView48"
+        android:layout_width="277dp"
+        android:layout_height="24dp"
+        android:text="___________________________________________________________________"
+        android:textColor="#CCCCCCCC"
+        tools:layout_editor_absoluteX="68dp"
+        tools:layout_editor_absoluteY="400dp" />
+
+    <TextView
+        android:id="@+id/textView37"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka_medium"
+        android:text="Preencha suas abaixo para fazer login."
+        android:textColor="#FFFFFF"
+        tools:layout_editor_absoluteX="82dp"
+        tools:layout_editor_absoluteY="164dp" />
+
+    <TextView
+        android:id="@+id/textView42"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka_medium"
+        android:text="Login Account"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="140dp"
+        tools:layout_editor_absoluteY="228dp" />
+
+    <TextView
+        android:id="@+id/textView43"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka_medium"
+        android:text="Username"
+        android:textColor="#CCCCCC"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="274dp" />
+
+    <TextView
+        android:id="@+id/textView45"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka_medium"
+        android:text="E-mail"
+        android:textColor="#CCCCCC"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="333dp" />
+
+    <TextView
+        android:id="@+id/textView47"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka_medium"
+        android:text="Senha"
+        android:textColor="#CCCCCC"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="390dp" />
+
+    <TextView
+        android:id="@+id/textView49"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka_medium"
+        android:text="Esqueci a senha"
+        android:textSize="11sp"
+        tools:layout_editor_absoluteX="257dp"
+        tools:layout_editor_absoluteY="424dp" />
+
+    <TextView
+        android:id="@+id/textView50"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka_medium"
+        android:text="Você ainda não tem conta?"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="121dp"
+        tools:layout_editor_absoluteY="539dp" />
+
+    <TextView
+        android:id="@+id/textView51"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fredoka_medium"
+        android:text="Sign in"
+        android:textColor="#6796DA"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="288dp"
+        tools:layout_editor_absoluteY="540dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
